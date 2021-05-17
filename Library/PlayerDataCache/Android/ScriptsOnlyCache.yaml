@@ -643,6 +643,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: 49953db8ac145d523c23c3a49c76319a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: testFileBrowser
   platform: 13
   scenePathNames:
   - Assets/Scenes/main.unity
